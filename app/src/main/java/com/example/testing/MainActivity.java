@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     ViewPager viewPager;
     WebView webView;
     ////Storing API Key in a string for further uses
-    String api_key="39b2f00896ac4b7a8d1af1f7abb2ca48";
+    String api_key="YOUR_API_KEY";
     BottomNavigationView bottomNavigationView;
     Context context = MainActivity.this;
 
